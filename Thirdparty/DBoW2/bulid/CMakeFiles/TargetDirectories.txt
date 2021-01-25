@@ -1,0 +1,3 @@
+C:/ORBSLAM-WIN10/Thirdparty/DBoW2/bulid/CMakeFiles/DBoW2.dir
+C:/ORBSLAM-WIN10/Thirdparty/DBoW2/bulid/CMakeFiles/ALL_BUILD.dir
+C:/ORBSLAM-WIN10/Thirdparty/DBoW2/bulid/CMakeFiles/ZERO_CHECK.dir
